@@ -1,0 +1,4 @@
+Tea Leaves|50
+Sugar|30
+Milk|20
+Biscuits|100
